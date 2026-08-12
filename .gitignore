@@ -1,0 +1,15 @@
+# Never publish restricted teaching files
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.epub
+*.zip
+
+# Local inventories may contain paths or account-derived metadata
+catalog/private-*
+.DS_Store
+Thumbs.db
